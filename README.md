@@ -12,3 +12,6 @@ Apple Shortcuts is a visual scripting application developed by Apple that enable
 ## Productivity
 - [Start Pomodoro](https://www.icloud.com/shortcuts/18da03dd466641779fa2d3777a62f874) - Pomodoro timer (Apple)
 
+## Action Button
+- [Super Action Button](https://www.icloud.com/shortcuts/2ce4c94148324f47951eae2c1e51e579) - Multifunctional shortcut that makes the most of your iPhone Action Button ([@humansince1989](https://www.reddit.com/user/humansince1989/))
+[[source](https://www.reddit.com/r/shortcuts/comments/1ggliz0/comment/lurc6b0/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)]
