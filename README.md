@@ -9,6 +9,7 @@ Apple Shortcuts is a visual scripting application developed by Apple that enable
 
 - [Productivity](#productivity)
 - [Action Button](#action-button)
+- [Photo & Video](#photo--video)
 - [Household](#household)
 
 ## Productivity
@@ -17,6 +18,10 @@ Apple Shortcuts is a visual scripting application developed by Apple that enable
 ## Action Button
 - [Super Action Button](https://www.icloud.com/shortcuts/2ce4c94148324f47951eae2c1e51e579) - Multifunctional shortcut that makes the most of your iPhone Action Button ([@humansince1989](https://www.reddit.com/user/humansince1989/))
 [[source](https://www.reddit.com/r/shortcuts/comments/1ggliz0/comment/lurc6b0/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)]
+
+## Photo & Video
+- [Media Mutt](https://routinehub.co/shortcut/3184/) - Download Photos and Videos from Anywhere ([@supermamon](https://github.com/supermamon))
+[[source](https://github.com/supermamon/shortcuts/tree/master/MediaMutt)]
 
 ## Household
 - [Scan Laundry Symbols](https://www.icloud.com/shortcuts/91e5724648f743e6908ef7f105841004) - Scan laundry symbols with your iPhone ([@alanpegoli](https://www.reddit.com/user/alanpegoli/))
