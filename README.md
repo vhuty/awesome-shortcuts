@@ -9,6 +9,7 @@ Apple Shortcuts is a visual scripting application developed by Apple that enable
 
 - [Productivity](#productivity)
 - [Action Button](#action-button)
+- [For fun](#for-fun)
 - [Photo & Video](#photo--video)
 - [Household](#household)
 
@@ -18,6 +19,10 @@ Apple Shortcuts is a visual scripting application developed by Apple that enable
 ## Action Button
 - [Super Action Button](https://www.icloud.com/shortcuts/2ce4c94148324f47951eae2c1e51e579) - Multifunctional shortcut that makes the most of your iPhone Action Button ([@humansince1989](https://www.reddit.com/user/humansince1989/))
 [[source](https://www.reddit.com/r/shortcuts/comments/1ggliz0/comment/lurc6b0/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)]
+
+## For fun
+
+- [Villager Grunt](https://www.icloud.com/shortcuts/39c2bd54a7b848aa86f9f95941b2b225) - Shortcut that randomly plays a Minecraft villager sound when clicked ([@RabbitHole-in-one](https://www.reddit.com/user/RabbitHole-in-one/)) [[source](https://www.reddit.com/r/shortcuts/s/8i4Zv1ewzl)]
 
 ## Photo & Video
 - [Media Mutt](https://routinehub.co/shortcut/3184/) - Download Photos and Videos from Anywhere ([@supermamon](https://github.com/supermamon))
