@@ -14,6 +14,8 @@ Apple Shortcuts is a visual scripting application developed by Apple that enable
 - [Household](#household)
 
 ## Productivity
+- [Open in Apple Maps](https://www.icloud.com/shortcuts/b1bf1dce8a7543c9bdd21148cc95735b) - Opens any Google Maps link (place, pin, route or short link) in Apple Maps from the share sheet ([@steven-panxd](https://github.com/steven-panxd))
+[[source](https://github.com/steven-panxd/google-apple-maps-converter)]
 - [Start Pomodoro](https://www.icloud.com/shortcuts/18da03dd466641779fa2d3777a62f874) - Pomodoro timer (Apple)
 
 ## Action Button
