@@ -15,6 +15,8 @@ Apple Shortcuts is a visual scripting application developed by Apple that enable
 
 ## Productivity
 - [Start Pomodoro](https://www.icloud.com/shortcuts/18da03dd466641779fa2d3777a62f874) - Pomodoro timer (Apple)
+- [Poly Duo (C1M)](https://www.icloud.com/shortcuts/7029076d5fd04c029ed791e853c0b52e) - ChatGPT answers, Claude checks it: one answer showing where they agree, where they differ and what to check yourself, on your own free accounts via the official Ask ChatGPT and Ask Claude actions ([@vadimchernets](https://github.com/vadimchernets))
+[[source](https://github.com/vadimchernets/c1m-duo)] [[website](https://polyhelper.ai/duo/)]
 
 ## Action Button
 - [Super Action Button](https://www.icloud.com/shortcuts/2ce4c94148324f47951eae2c1e51e579) - Multifunctional shortcut that makes the most of your iPhone Action Button ([@humansince1989](https://www.reddit.com/user/humansince1989/))
